@@ -1,0 +1,2 @@
+# VRsetup
+ This is a VR video where the doctor explains about Colorectal Cancer. The Doctor moves around the area using animations and the audio file is played for the voice over. The timeline is used for playing different character animations and playing the audio file. The Background has a video player which plays a video related to colorectal cancer. This overall projects the idea of a HCP explaining about a particular disease to the patients/targeted ppl in a VR environment.
